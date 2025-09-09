@@ -26,3 +26,6 @@ c++基础知识笔记
 [stack](https://cppreference.com/w/cpp/container/stack.html)
 [queue](https://cppreference.com/w/cpp/container/queue.html)
 [priority_queue](https://cppreference.com/w/cpp/container/priority_queue.html)
+[deque](https://cppreference.com/w/cpp/container/deque.html)
+[deque的实现原理](https://blog.csdn.net/qq_21989927/article/details/109403054)
+![alt text](image-6.png)
